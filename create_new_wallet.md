@@ -1,6 +1,6 @@
 # Create New Wallet
 
-!. Press the "Create New Wallet" button in the top right corner
+1. Press the "Create New Wallet" button in the top right corner
 2. On the next screen you will see your new Wallet address and Private Key
 3. Save your private key in a safe place
 
