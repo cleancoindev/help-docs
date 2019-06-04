@@ -1,4 +1,4 @@
-# DMEX Docs
+# DMEX Help Docs
 
 ## Create New Wallet 
 1. Press the "Create New Wallet" button from the top right corner
